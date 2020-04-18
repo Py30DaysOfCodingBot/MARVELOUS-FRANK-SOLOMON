@@ -3,8 +3,8 @@
 ```NAME``` 
 Marvelous Frank-Solomon
 
-```Language``` 
+```LANGUAGE``` 
 Python
 
-```Level```
+```LEVEL```
 Beginner
